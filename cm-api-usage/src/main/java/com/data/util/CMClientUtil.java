@@ -10,10 +10,10 @@ import com.cloudera.api.v30.RootResourceV30;
  */
 public class CMClientUtil {
 
-    private static String cdhApiPath = "utility";
+    private static String cdhApiPath = "yourcdhip";
     private static String cdhApiPort = "7180";
-    private static String cdhApiUserName = "cyzx";
-    private static String cdhApiPassword = "wwcy@123.com";
+    private static String cdhApiUserName = "yourname";
+    private static String cdhApiPassword = "yourpwd";
 
     private static RootResourceV30 apiRoot;
 
